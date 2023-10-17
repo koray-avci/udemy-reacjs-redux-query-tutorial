@@ -1,0 +1,19 @@
+.topArrangement{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 20px;
+}
+
+.panelDiv{
+  background-color: lightgrey;
+  border-radius: 30px;
+}
+
+.photoContent{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+}
